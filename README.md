@@ -1,9 +1,7 @@
 <html>
  <body>
  <style> 
-  *{
-    background-color: purple;
-  }
+  *{background-color: blueviolet;}
 </style>
 <h2>Hi dear!!</h2>
 
