@@ -16,8 +16,8 @@ Praticater to gym and lover books!
 
 <div>
 <a href="https://github.com/jonasskt">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasskt-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasskt-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasskt&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasskt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 Linguagens usadas: </br>
