@@ -1,3 +1,9 @@
+
+<style> 
+  *{
+    background-color: purple;
+  }
+</style>
 <h2>Hi dear!!</h2>
 
 <h2>My name is Jonas and living Ijuí, RS, Brasil.</h2>
