@@ -20,7 +20,7 @@ Praticater to gym and lover books!
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=jonasskt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-Linguagens usadas: </br>
+<h2>Languages:</h2> </br>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" />
