@@ -1,4 +1,6 @@
-sup, my name is Jonas and living Ijuí, RS, Brasil.
+<h2>Hi dear!!</h2>
+
+<h2>My name is Jonas and living Ijuí, RS, Brasil.</h2>
 
 
 At the moment learning JS, but i learn python in the past.
