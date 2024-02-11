@@ -13,11 +13,10 @@ My focus is Node.js to back-end and data bank.
 
 Praticater to gym and lover books!
 
+<a href="https://www.instagram.com/jonas_vieira.py/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
 Linguagens usadas: </br>
-  
-
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" />
