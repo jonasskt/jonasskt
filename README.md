@@ -1,4 +1,6 @@
-<html><style> 
+<html>
+ <body>
+ <style> 
   *{
     background-color: purple;
   }
@@ -24,4 +26,6 @@ Linguagens usadas: </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60" />
 </div>
+
+</body>
 </html>
